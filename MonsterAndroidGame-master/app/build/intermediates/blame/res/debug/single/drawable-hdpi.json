@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/build/intermediates/res/merged/debug/drawable-hdpi/protecteddot.png",
+        "source": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/src/main/res/drawable-hdpi/protecteddot.png"
+    },
+    {
+        "merged": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/build/intermediates/res/merged/debug/drawable-hdpi/vulnerabledot.png",
+        "source": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/src/main/res/drawable-hdpi/vulnerabledot.png"
+    },
+    {
+        "merged": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/build/intermediates/res/merged/debug/drawable-hdpi/trashcan.png",
+        "source": "/Users/Asmina/StudioProjects/cs413sp16group02p5/app/src/main/res/drawable-hdpi/trashcan.png"
+    }
+]
